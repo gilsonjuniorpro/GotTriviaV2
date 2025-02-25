@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">GoT Trivia</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again?</string>
+    <string name="position">Position</string>
+    <string name="select_an_avatar">Select an Avatar</string>
+    <string name="got_trivia">GoT Trivia</string>
+    <string name="about_text">Game of Thrones Trivia will help remind you of several moments and characters.\n\nWould you like to test your knowledge about this loved series?</string>
+    <string name="rules_text">Select the answer from the options given. Each time you get an answer correct, you advance to the next question.\n\nIf you get the answer wrong, your game ends!</string>
+    <string name="rules">Rules</string>
+    <string name="about">About</string>
+    <string name="trivia_hint">Trivia Hint</string>
+    <string name="title_got_trivia_question">Got Trivia (%1$d/%2$d)</string>
+    <string name="title_about_trivia">About Trivia</string>
+    <string name="title_trivia_rules">Trivia Rules</string>
+    <string name="share_success_text">I mastered #UdacityAndroidTrivia with %1$d/%2$d correct questions!</string>
+    <string name="submit_button">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="share">Share</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+
+    <!--
+    <string name="banner_ad_unit_id">ca-app-pub-8662127685262666/8734769409</string>
+
+    <string name="banner_ad_unit_id_test">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="banner_ad_unit_id">/6499/example/banner</string>
+    -->
+
+    <string name="banner_ad_unit_id">ca-app-pub-8662127685262666/2479075831</string>
+
+    <string name="banner_ad_unit_id_test">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <string name="version">version 1.1</string>
+    <string name="about_image">about image</string>
+
+    <string name="idioma">EN</string>
+</resources>
